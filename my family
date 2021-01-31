@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My website</title>
+    <style>
+        h1{
+            text-align: center;
+            color: red;
+        }
+        h3{
+            text-align: center;
+        }
+        .blue{
+            width: 100px;
+            border:5px solid crimson;
+            border-radius: 10px;
+            text-align: center;
+            margin-inline: 120px;
+            padding: 20px;
+            background-color: orangered;
+            height: 50px;
+            display: inline-block;
+        }
+        .rad{
+            background-color: royalblue;
+            width: 400px;
+            border-radius: 2px;
+            text-align: justify;
+        }
+        #niha{
+            background-color: plum;
+            margin: 10px;
+            
+        }
+        img{
+            inline-size: 100%;
+        }
+
+        .nana{
+            border: 2px solid black;
+            width: 15%;
+            border-radius: 2px;
+            margin: 3px;
+            padding: 2px;
+            overflow: hidden;
+            color: brown;
+            background-color: black;
+            height: 120px;
+            display: inline-block;
+        }
+        section{
+            background-color: darkmagenta;
+            width: 100%;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1>My Family</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wm._Riley_Blankinship%2C_miner%2C_with_his_children._Koppers_Coal_Division%2C_Kopperston_Mine%2C_Kopperston%2C_Wyoming_County..._-_NARA_-_540984.jpg/220px-Wm._Riley_Blankinship%2C_miner%2C_with_his_children._Koppers_Coal_Division%2C_Kopperston_Mine%2C_Kopperston%2C_Wyoming_County..._-_NARA_-_540984.jpg" alt="">
+
+   <button type="submit">Search</button><input type="text">
+
+    <div id="niha">
+        <h3 class="blue">Soleman</h3>
+        <p class="rad">He is my father but he is no more.I love him so much and aslo miss him.</p>
+        <h3 class="blue">Milon Begum</h3>
+        <p class="rad">She is my mom and she is a housewife.She love me very much.
+        </p>
+    </div>
+    <div class="nana">
+        <h3>Mizan</h3>
+        <p>My elder brother</p>
+    </div>
+    <div class="nana">
+        <h3>Aysha</h3>
+        <p>My 1st sister</p>
+    </div>
+    <div class="nana">
+        <h3>Roksana</h3>
+        <p>My 2nd sister</p>
+    </div>
+    <div class="nana">
+        <h3>Rita</h3>
+        <p>My 3rd sister</p>
+    </div>
+    <div class="nana">
+        <h3>Shimul</h3>
+        <p>My 4th sister</p>
+    </div>
+       <section>
+           <h3>paragraph</h3>
+           <p>Family is one of the integral parts of human beings. Every human is incomplete without a family. A family means to have a man, his wife, his kids, and his parents; all are living together. All the family members share equal parts while sharing the responsibilities within the family.</p>
+       </section>
+      
+    
+</body>
+</html>
